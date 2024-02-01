@@ -1,0 +1,8 @@
+go 1.21
+
+use (
+	.
+	./Utilities/Client
+	./Utilities/Server
+	./Utilities/Shellcode
+)
